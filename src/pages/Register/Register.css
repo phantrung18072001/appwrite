@@ -1,0 +1,12 @@
+.register-wrap {
+  background: linear-gradient(-135deg, #c850c0, #4158d0);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-card {
+  text-align: center;
+  width: 50%;
+}
